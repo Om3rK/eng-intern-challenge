@@ -1,5 +1,5 @@
 import sys
-
+#work
 ENGLISH_TO_BRAILLE = {
     'a': 'O.....', 
     'b': 'O.O...',
